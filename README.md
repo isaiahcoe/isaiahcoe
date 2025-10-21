@@ -68,6 +68,17 @@ End-to-end deployment of **osTicket**, focusing on ticket lifecycle management, 
 > 🔧 Technologies: IIS, PHP, MySQL, Windows Server  
 > 🎯 Emphasizes ITIL-aligned support practices and remote user assistance  
 
+### 🔹 [VPN](https://github.com/isaiahcoe/VPN/)
+This repository showcases my hands-on experience configuring and using Virtual Private Networks (VPNs), demonstrating how they secure data, enhance privacy, and enable encrypted remote access through real-world lab exercises and practical implementation.
+- Installed and set up a VPN client on a remote device
+- Established a secure connection to the VPN server
+- Checked IP address changes before and after VPN connection
+- Verified encryption and tunneling with packet analysis tools (e.g., Wireshark)
+- [Link to repository](https://github.com/isaiahcoe/VPN/) 
+
+> 🔧 Technologies: Azure, Windows Server 2022, Proton VPN, Wireshark
+  
+
 
 ## 📚 Skills & Tools
 
