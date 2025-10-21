@@ -47,14 +47,28 @@ Fully documented Active Directory deployment in Azure IaaS demonstrating user/gr
 
 ---
 
-### 🔹 [osTicket Helpdesk Deployment](https://github.com/yourusername/osticket-lab)
-End-to-end deployment of **osTicket**, focusing on ticket lifecycle management, SLA tracking, and knowledge-base updates—mirroring real help desk workflows.
 
-> 🔧 Technologies: IIS, PHP, MySQL, Windows Server  
-> 🎯 Emphasizes ITIL-aligned support practices and remote user assistance  
+
 
 ---
 -->
+### 🔹 [OS-Ticket Helpdesk Deployment](https://github.com/isaiahcoe/OS-Ticket)
+End-to-end deployment of **osTicket**, focusing on ticket lifecycle management, SLA tracking, and knowledge-base updates—mirroring real help desk workflows.
+- Set up and installed osTicket in a web hosting environment.
+- Configured a MySQL/MariaDB database to store ticket and user data.
+- Installed necessary dependencies including PHP and a web server (Apache or IIS).
+- Completed the initial setup wizard, creating the admin account and defining core system settings.
+- Created help topics to organize and categorize incoming support requests.
+- Configured departments, teams, and agents to streamline ticket routing and assignment.
+- Implemented Service Level Agreements (SLAs) to monitor and enforce response time goals.
+- Created and assigned support tickets to simulate real-world user issues.
+- Responded to and tracked ticket progress and resolution status.
+- Managed user roles and permissions to define appropriate access and control within the system.
+- [Link to repository](https://github.com/isaiahcoe/OS-Ticket)
+> 🔧 Technologies: IIS, PHP, MySQL, Windows Server  
+> 🎯 Emphasizes ITIL-aligned support practices and remote user assistance  
+
+
 ## 📚 Skills & Tools
 
 - **Operating Systems:** Windows 10/11, Windows Server 2019/2022, Linux (Ubuntu)  
