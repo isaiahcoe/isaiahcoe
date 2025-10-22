@@ -39,11 +39,7 @@ Simulated onboarding/offboarding environment using Microsoft Entra ID (Azure AD)
 
 ---
 
-### 🔹 [Enterprise AD DS Environment in Azure](https://github.com/Mitch-Pauwels/Azure-AD-Domain-Lab)
-Fully documented Active Directory deployment in Azure IaaS demonstrating user/group management, GPOs, and file-share permissions.
 
-> 🔧 Technologies: Azure IaaS, Windows Server 2022, AD DS, GPO, NTFS/Share Permissions  
-> 📸 Contains architecture diagrams and lab walkthroughs  
 
 ---
 
@@ -74,10 +70,21 @@ This repository showcases my hands-on experience configuring and using Virtual P
 - Established a secure connection to the VPN server
 - Checked IP address changes before and after VPN connection
 - Verified encryption and tunneling with packet analysis tools (e.g., Wireshark)
-- [Link to repository](https://github.com/isaiahcoe/VPN/) 
-
+- [Link to repository](https://github.com/isaiahcoe/VPN/)
 > 🔧 Technologies: Azure, Windows Server 2022, Proton VPN, Wireshark
-  
+
+### 🔹 [Active Directory in Azure](https://github.com/isaiahcoe/Active-Directory/)
+Fully documented Active Directory deployment in Azure IaaS.
+- Deployed Windows Server 2022 virtual machines in Azure IaaS
+- Installed and configured Active Directory Domain Services (AD DS)
+- Configured Organizational Units (OUs), users, groups, and Group Policy Objects (GPOs)
+- Implemented domain controller promotion and replication across VMs
+- Tested domain join, authentication, and access permissions for users and computers
+- Documented step-by-step deployment process and best practices
+- - [Link to repository](https://github.com/isaiahcoe/Active-Directory/)
+
+> 🔧 Technologies: Azure IaaS, Windows Server 2022,
+
 
 
 ## 📚 Skills & Tools
